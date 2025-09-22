@@ -1,1 +1,2 @@
 GREEN_TEST: This is my first change
+GREEN_TEST: This is my second change
